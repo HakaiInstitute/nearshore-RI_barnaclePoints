@@ -7,7 +7,6 @@
 
 
 ## Data Use
----
 This data is licensed under a Creative Commons Attribution 4.0 International 
 License (CC-BY).
 
@@ -18,7 +17,6 @@ and/or collaborate with Hakai Nearshore researchers if you are considering
 using this dataset for manuscripts or other forms of reporting.
 
 ## Summary
----
 This data package is a component of the Hakai Institute’s Nearshore research 
 and monitoring program. The overarching objective of Hakai Nearshore research 
 is to investigate the role of habitats and their associated communities, in the
@@ -32,7 +30,6 @@ here:
 https://docs.google.com/document/d/11uqZNnwSabw0thcbntlTkZpVgVAkjPDJS17_ur6W7S8/edit
 
 ## Survey Methods
----
 This data package collects data and information relating to barnacle community 
 surveys conducted in the rocky intertidal of Calvert Island BC, starting in 
 2019. Surveys were conducted using 5 permanent plots at each site, wherein 
@@ -57,10 +54,9 @@ overstory will have the understory mapped to the new column.
 - Summarize the reduced data into point counts.
 - Map variables from summarized data to 2016-2018 data (see example script).
 
-![[BarnacleJoiningExample.jpeg]]
+<img src=docs/examples/BarnacleJoiningExample.jpeg />
 
 ## Resources
----
 See the data dictionary file for a complete description of data variables, 
 units and descriptions.
 
@@ -73,7 +69,7 @@ across time.
  understory/overstory counts
 	- **barnacle_summary_example.R**
 
-![[BarnacleSummaryExample.jpeg]]
+<img src=docs/examples/BarnacleSummaryExample.jpeg />
 
 - ***Join Reference:*** Reference script for summarizing survey data into 
 counts and joining with data from 2016-2018 surveys. 
