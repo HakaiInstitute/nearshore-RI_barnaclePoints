@@ -38,15 +38,14 @@ description, please see the Rocky Intertidal protocol contained in this dataset.
 
 **NOTE:** This data package is intrinsically linked to the 
 Barnacle Dynamics: Point Intercepts (2016 2018) surveys, which were done using 
-the same experimental setup, locations, and methodology, with one key 
-difference:
->
+the same experimental setup, locations, and methodology, with one key difference:
+
 For barnacle point intercept surveys performed from 2016-2018, the taxon 
 recorded at each point intercept was the first "layer" directly under the 
 point, with no differentiation between understory/overstory layers as was done
 in surveys from 2019 onwards. To compare these two datasets, the following must 
 be done:
->
+
 - Reduce point observations from understory/overstory taxa to a single taxa 
 column (see joining example script). Observations with overstory taxa will have 
 the overstory taxa mapped to the new column, while those points with no 
@@ -55,33 +54,30 @@ overstory will have the understory mapped to the new column.
 - Map variables from summarized data to 2016-2018 data (see example script).
 
 <img src=docs/examples/BarnacleJoiningExample.jpeg />
+>Visual demonstration of how to summarize survey data and join with 2016-2018 data
 
 ## Resources
-See the data dictionary file for a complete description of data variables, 
-units and descriptions.
+See the data dictionary file for a complete description of data variables, units 
+and descriptions.
 
-- ***Survey data:*** Counts of barnacle species quantified within a set area 
-(75cmx50cm) using point-intercept method. Individual plots are replicated 
-across time. 
-	- **barnacle_point_intercepts-surveys.csv**
+- ***Data*** 
+	- **barnacle_point_intercepts-surveys.csv:** Counts of barnacle species 
+quantified within a set area (75cmx50cm) using point-intercept method. 
+Individual plots are replicated across time. 
 	
-- ***Summary Reference:*** Reference script for summarizing survey data into
- understory/overstory counts
-	- **barnacle_summary_example.R**
+- ***Scripts***
+	- **barnacle_summary_example.R:** Reference script for summarizing survey
+ data into understory/overstory counts.
 
 <img src=docs/examples/BarnacleSummaryExample.jpeg />
+>Visual demonstration of how to summarize survey data into overstory/understory counts
 
-- ***Join Reference:*** Reference script for summarizing survey data into 
-counts and joining with data from 2016-2018 surveys. 
-	- **barnacle_joining_example.R**
+- **barnacle_joining_example.R:** Reference script for summarizing survey data 
+into counts and joining with data from 2016-2018 surveys. 
 
-- ***Protocols:*** See attached protocol for a detailed description of field 
-survey methods and equipment. 
-	- **rocky_intertidal-protocol.pdf**
-	
-- ***Package Changes:*** See attached Changelog for additions and changes to
- this data package.
-	- **changelog.txt**
+- ***Protocols:***
+	- **rocky_intertidal-protocol.pdf:** Detailed description of field survey
+ methods and equipment. 
 
 ---
 Contact tyrel.froese@hakai.org or alyssa.gehman@hakai.org  if you have any 

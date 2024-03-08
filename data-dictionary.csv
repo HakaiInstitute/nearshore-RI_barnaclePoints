@@ -1,1 +1,15 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+barnacle_point_intercepts-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+barnacle_point_intercepts-surveys.csv,site,character,NA,Rocky intertidal site where survey was conducted
+barnacle_point_intercepts-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
+barnacle_point_intercepts-surveys.csv,plot,numeric,"1,2,3,4,5",Permanent plot areas (marked by bolts) defining five plots for each substrate at each site. Each plot area measures 75cm x 50 cm
+barnacle_point_intercepts-surveys.csv,total_intercepts_counted,numeric,NA,The number of point intercepts counted in the plot area
+barnacle_point_intercepts-surveys.csv,grid_column,numeric,NA,The column position (1-10) of the observed point intercept
+barnacle_point_intercepts-surveys.csv,grid_row,numeric,NA,The row position (1-10) of the observed point intercept
+barnacle_point_intercepts-surveys.csv,overstory_scientific_name,character,NA,The taxon forming the overstory at the observed point intercept
+barnacle_point_intercepts-surveys.csv,overstory_description,character,NA,Descriptive name of taxon forming the overstory at the observed point intercept
+barnacle_point_intercepts-surveys.csv,understory_scientific_name,character,NA,The taxon forming the understory at the observed point intercept
+barnacle_point_intercepts-surveys.csv,understory_description,character,NA,Descriptive name of taxon forming the understory at the observed point intercept
+barnacle_point_intercepts-surveys.csv,entered_by,character,NA,The individual(s) who entered the data into the spreadsheet
+barnacle_point_intercepts-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
+barnacle_point_intercepts-surveys.csv,notes,character,NA,Records anything of note about a given observation
