@@ -1,8 +1,14 @@
 #================== Introduction ==============================================
+# Author: Tyrel Froese
+# Project: Rocky Intertidal
+# Last Modified: 2024-03-20
+#
 # This script provides an example for summarizing Barnacle point counts from
-# 2019- in a form which can be compared to Barnacle point counts from 2016-2018
-# surveys, and combining the two datasets together.
-
+# the Hakai Institute's Rocky Intertidal surveys on Calvert Island BC. The
+# script manipulates point count data from 2019 onwards into a form which can 
+# be compared to Barnacle point counts from 2016-2018 surveys, and combines the
+# two datasets together.
+#
 #================== Setup =====================================================
 
 # Load packages for tidying and summarizing data

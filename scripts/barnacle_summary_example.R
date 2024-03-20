@@ -1,8 +1,13 @@
 #================== Introduction ==============================================
-# This script is meant to summarize barnacle point count data from 2019-
-# surveys. It will split understory and overstory taxa and add a new understory
-# overstory column to differentiate between counts.
-
+# Author: Tyrel Froese
+# Project: Rocky Intertidal
+# Last Modified: 2024-03-20
+#
+# This script provides an example for summarizing Barnacle point counts from
+# the Hakai Institute's Rocky Intertidal surveys on Calvert Island BC. Using
+# data from 2019 onwards, it will split understory and overstory taxa and add a 
+# new understory overstory column to differentiate between counts.
+#
 #================== Setup =====================================================
 
 # Load packages for tidying and summarizing data
