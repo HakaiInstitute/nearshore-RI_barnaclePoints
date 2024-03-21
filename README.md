@@ -54,6 +54,7 @@ overstory will have the understory mapped to the new column.
 - Map variables from summarized data to 2016-2018 data (see example script).
 
 <img src=docs/examples/BarnacleJoiningExample.jpeg />
+
 **Visual demonstration of how to summarize survey data and join with 2016-2018 data**
 
 ## Resources
@@ -70,6 +71,7 @@ Individual plots are replicated across time.
  data into understory/overstory counts.
 
 <img src=docs/examples/BarnacleSummaryExample.jpeg />
+
 **Visual demonstration of how to summarize survey data into overstory/understory counts**
 
 - **barnacle_joining_example.R:** Reference script for summarizing survey data 
