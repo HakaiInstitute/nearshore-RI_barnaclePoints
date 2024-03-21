@@ -16,6 +16,12 @@ providers, and provide helpful feedback on data quality, and 2) communicate
 and/or collaborate with Hakai Nearshore researchers if you are considering 
 using this dataset for manuscripts or other forms of reporting.
 
+```
+Froese,T.,Gehman, A. Hessing-Lewis, M., and Sadlier-Brown, G. (2023). Fucus 
+point intercept survey data from the BC Central Coast, 2016-2023. Hakai Institute 
+dataset v3.1.0. [access date]
+```
+
 ## Summary
 This data package is a component of the Hakai Institute’s Nearshore research 
 and monitoring program. The overarching objective of Hakai Nearshore research 
@@ -55,7 +61,7 @@ overstory will have the understory mapped to the new column.
 
 <img src=docs/examples/BarnacleJoiningExample.jpeg />
 
-**Visual demonstration of how to summarize survey data and join with 2016-2018 data**
+>Visual demonstration of how to summarize survey data and join with 2016-2018 data
 
 ## Resources
 See the data dictionary file for a complete description of data variables, units 
