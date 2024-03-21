@@ -54,7 +54,7 @@ overstory will have the understory mapped to the new column.
 - Map variables from summarized data to 2016-2018 data (see example script).
 
 <img src=docs/examples/BarnacleJoiningExample.jpeg />
-> Visual demonstration of how to summarize survey data and join with 2016-2018 data
+**Visual demonstration of how to summarize survey data and join with 2016-2018 data**
 
 ## Resources
 See the data dictionary file for a complete description of data variables, units 
@@ -70,7 +70,7 @@ Individual plots are replicated across time.
  data into understory/overstory counts.
 
 <img src=docs/examples/BarnacleSummaryExample.jpeg />
-> Visual demonstration of how to summarize survey data into overstory/understory counts
+**Visual demonstration of how to summarize survey data into overstory/understory counts**
 
 - **barnacle_joining_example.R:** Reference script for summarizing survey data 
 into counts and joining with data from 2016-2018 surveys. 
@@ -80,5 +80,5 @@ into counts and joining with data from 2016-2018 surveys.
  methods and equipment. 
 
 ---
-Contact tyrel.froese@hakai.org or alyssa.gehman@hakai.org  if you have any 
+Contact Tyrel Froese or Alyssa Gehman at nearshore@hakai.org if you have any 
 questions.
