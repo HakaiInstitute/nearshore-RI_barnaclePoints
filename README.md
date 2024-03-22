@@ -18,7 +18,7 @@ using this dataset for manuscripts or other forms of reporting.
 
 ```
 Froese,T.,Gehman, A. Hessing-Lewis, M., and Sadlier-Brown, G. (2023). Barnacle 
-point intercept survey data from the BC Central Coast, 2016-2023. Hakai Institute 
+point intercept survey data from the BC Central Coast, 2019-2023. Hakai Institute 
 dataset v3.1.0. [access date]
 ```
 
