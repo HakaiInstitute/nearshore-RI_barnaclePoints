@@ -18,7 +18,7 @@ using this dataset for manuscripts or other forms of reporting.
 
 ```
 Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., & Gehman, A. (2023). 
-Barnacle Dynamics: Point Intercept Surveys - BC Central Coast (v3.0) 
+Barnacle Dynamics: Point Intercept Surveys - BC Central Coast (v3.1.0) 
 [Data set]. https://doi.org/10.21966/m8kp-gy81
 ```
 
